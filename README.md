@@ -14,7 +14,7 @@ I build Python applications and work on data validation, backend APIs, and appli
 | [Niramaya Health AI](https://github.com/krunal-018/Niramaya-Health-AI-Symptoms-Checker-Project) | An educational app with Gemini-powered chat, biomedical literature search, and downloadable visit notes. [Try the live app](https://niramaya-health-ai-bbzc.onrender.com/). |
 | [IoT Data Validation System](https://github.com/krunal-018/IOT-Data-Validation-System) | Python validators for sensor readings, time-series data, and CSV files, with a Flask interface, SQLite logging, and Raspberry Pi Sense HAT feedback. |
 | [Ro-Ro Ferry Management System](https://github.com/krunal-018/Roro-Ferry-Management-System) | A PHP and MySQL ferry booking app with trip search, seat selection, PDF tickets, and an admin dashboard. [Try the live demo](https://roro-ferry.freedev.app/Roro-Ferry-Management-System-main/Roro-Ferry-Management-System-main/index.php). |
-| [Portfolio Website](https://krunal-018.vercel.app/) | Browse my projects, technical skills, and experience. [View source](https://github.com/krunal-018/portfolio-web). |
+| [Portfolio Website](https://krunal-018.vercel.app/) | Browse my projects, technical skills, and experience. [Live demo](https://krunal-018.vercel.app/). |
 
 **Hackathon project:** Worked with a team at *Kill the Search Bar* on a live-data pipeline for keeping directory information up to date.
 
